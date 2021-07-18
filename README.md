@@ -1,4 +1,4 @@
-# Pandas
+# Heroes of Pymoli
 
 It contains analysis of the data for most recent fantasy game Heroes of Pymoli. The game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience.
 
